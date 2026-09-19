@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "updated": "2026-09-19",
+    "note": "From the group's Word files (Recent_PhD_Grad and Master_Students). The Ph.D. graduation years were not in the file, so those entries have no year and are listed first under 'Recent'. Add a year to move one into its year. 'Co-advised' marks the M.S. student listed as (Co). Optional fields: photo, note, thesis, position, organization, sector, url."
+  },
+  "graduates": [
+    {
+      "name": "Dr. Nikorn Kaewpraek",
+      "degree": "Ph.D.",
+      "photo": "assets/people/nikorn-kaewpraek.jpg"
+    },
+    {
+      "name": "Dr. Nattapat Chayaopas",
+      "degree": "Ph.D.",
+      "photo": "assets/people/nattapat-chayaopas.jpg"
+    },
+    {
+      "name": "Dr. Santi Ruangsang",
+      "degree": "Ph.D.",
+      "photo": "assets/people/santi-ruangsang.jpg"
+    },
+    {
+      "name": "Dr. Chonnikarn Vorrawan",
+      "degree": "Ph.D.",
+      "photo": "assets/people/chonnikarn-vorrawan.jpg"
+    },
+    {
+      "name": "Dr. Jirapun Pongfai",
+      "degree": "Ph.D.",
+      "photo": "assets/people/jirapun-pongfai.jpg"
+    },
+    {
+      "name": "Dr. Hongming Zhang",
+      "degree": "Ph.D.",
+      "photo": "assets/people/hongming-zhang.jpg"
+    },
+    {
+      "name": "Dr. Khomkrit Satitkowitchai",
+      "degree": "Ph.D.",
+      "photo": "assets/people/khomkrit-satitkowitchai.jpg"
+    },
+    {
+      "name": "Mr. Tawat Khunsamart",
+      "degree": "M.S.",
+      "year": 2008,
+      "note": "Co-advised"
+    },
+    {
+      "name": "Ms. Nattapat Chayaopas",
+      "degree": "M.S.",
+      "year": 2012
+    },
+    {
+      "name": "Mr. Preecha Aregarot",
+      "degree": "M.S.",
+      "year": 2012
+    },
+    {
+      "name": "Mr. Santi Ruangsang",
+      "degree": "M.S.",
+      "year": 2014
+    },
+    {
+      "name": "Ms. Sawitree Nasawat",
+      "degree": "M.S.",
+      "year": 2014
+    },
+    {
+      "name": "Mr. Peerasak Mutuwong",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Putthapatz Sirinop",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Patomporn Sooksri",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Thongsai Chauichoo",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Vunlop Sinlapakun",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Ms. Nantarat Duangpim",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Krich Rojjananil",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Aekarin Sungtong",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Supol Kunsit",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Tanasak Samakwong",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Chittaporn Hlaoimchan",
+      "degree": "M.S.",
+      "year": 2015
+    },
+    {
+      "name": "Mr. Pannawit Jungmanotham",
+      "degree": "M.S.",
+      "year": 2016
+    },
+    {
+      "name": "Ms. Sajee Jittapramualboon",
+      "degree": "M.S.",
+      "year": 2016
+    },
+    {
+      "name": "Ms. Vathinee Lohayanjaree",
+      "degree": "M.S.",
+      "year": 2016
+    },
+    {
+      "name": "Mr. Chanawe Pukpinyo",
+      "degree": "M.S.",
+      "year": 2016
+    },
+    {
+      "name": "Mr. Boonthawee Wongkaew",
+      "degree": "M.S.",
+      "year": 2016
+    },
+    {
+      "name": "Ms. Jirapan Pongfai",
+      "degree": "M.S.",
+      "year": 2017
+    },
+    {
+      "name": "Mr. Nattawat Chaisena",
+      "degree": "M.S.",
+      "year": 2018
+    },
+    {
+      "name": "Mr. Woranon Rassameepaiboon",
+      "degree": "M.S.",
+      "year": 2018
+    },
+    {
+      "name": "Mr. Wichienchai Jinamusik",
+      "degree": "M.S.",
+      "year": 2019
+    },
+    {
+      "name": "Ms. Pakaphun Phongphal",
+      "degree": "M.S.",
+      "year": 2019
+    },
+    {
+      "name": "Mr. Kittipat Sattaban",
+      "degree": "M.S.",
+      "year": 2019
+    },
+    {
+      "name": "Mr. Hongming Zhang",
+      "degree": "M.S.",
+      "year": 2019
+    },
+    {
+      "name": "Mr. Korakit Vittinanon",
+      "degree": "M.S.",
+      "year": 2020
+    },
+    {
+      "name": "Mr. Sirapop Kanokchan",
+      "degree": "M.S.",
+      "year": 2020
+    },
+    {
+      "name": "Ms. Krisana Potiwat",
+      "degree": "M.S.",
+      "year": 2021
+    },
+    {
+      "name": "Ms. Varinporn Amnajstitman",
+      "degree": "M.S.",
+      "year": 2021
+    },
+    {
+      "name": "Ms. Preeyanuch Poohtong",
+      "degree": "M.S.",
+      "year": 2021
+    }
+  ]
+}
