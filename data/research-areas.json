@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "updated": "2026-09-19",
+    "note": "title, summary and keywords are written as { \"en\": ..., \"th\": ... }. The English text comes from the titles in the group's Scopus record; the Thai text is a translation to be reviewed. Each 'id' is referenced from publications.json."
+  },
+  "areas": [
+    {
+      "id": "intelligent-control",
+      "title": {
+        "en": "Intelligent Control",
+        "th": "การควบคุมอัจฉริยะ"
+      },
+      "hue": 275,
+      "diagram": "intelligent",
+      "summary": {
+        "en": "Fuzzy, neural, and learning-based controllers, with optimization and reinforcement learning used to tune them, and formal guarantees on stability and performance.",
+        "th": "ตัวควบคุมแบบฟัซซี โครงข่ายประสาทเทียม และแบบที่อาศัยการเรียนรู้ โดยใช้การหาค่าเหมาะที่สุดและการเรียนรู้แบบเสริมกำลังช่วยปรับจูน พร้อมการรับประกันเชิงทฤษฎีด้านเสถียรภาพและสมรรถนะ"
+      },
+      "keywords": {
+        "en": [
+          "fuzzy control",
+          "neural networks",
+          "PID autotuning",
+          "reinforcement learning",
+          "metaheuristic optimization"
+        ],
+        "th": [
+          "การควบคุมฟัซซี",
+          "โครงข่ายประสาทเทียม",
+          "การปรับจูน PID อัตโนมัติ",
+          "การเรียนรู้แบบเสริมกำลัง",
+          "การหาค่าเหมาะที่สุดแบบเมทาฮิวริสติก"
+        ]
+      }
+    },
+    {
+      "id": "cyber-physical-systems",
+      "title": {
+        "en": "Cyber Physical Systems",
+        "th": "ระบบไซเบอร์-กายภาพ"
+      },
+      "hue": 195,
+      "diagram": "cps",
+      "summary": {
+        "en": "Control of physical systems that depend on computation and communication, with fault detection, fault-tolerant control, and resilience to cyber attacks, in vehicles, robots, and power systems.",
+        "th": "การควบคุมระบบกายภาพที่พึ่งพาการประมวลผลและการสื่อสาร ครอบคลุมการตรวจจับความผิดพลาด การควบคุมที่ทนต่อความผิดพลาด และความยืดหยุ่นต่อการโจมตีทางไซเบอร์ ในยานพาหนะ หุ่นยนต์ และระบบไฟฟ้ากำลัง"
+      },
+      "keywords": {
+        "en": [
+          "fault detection",
+          "fault-tolerant control",
+          "attack resilience",
+          "autonomous vehicles",
+          "power systems"
+        ],
+        "th": [
+          "การตรวจจับความผิดพลาด",
+          "การควบคุมที่ทนต่อความผิดพลาด",
+          "ความยืดหยุ่นต่อการโจมตี",
+          "ยานยนต์อัตโนมัติ",
+          "ระบบไฟฟ้ากำลัง"
+        ]
+      }
+    },
+    {
+      "id": "networked-systems",
+      "title": {
+        "en": "Networked Systems",
+        "th": "ระบบเครือข่าย"
+      },
+      "hue": 155,
+      "diagram": "networked",
+      "summary": {
+        "en": "Event-triggered and distributed control and estimation for networked and multi-agent systems, under time delays, limited communication, and denial-of-service attacks.",
+        "th": "การควบคุมและการประมาณค่าแบบขับเคลื่อนด้วยเหตุการณ์และแบบกระจาย สำหรับระบบเครือข่ายและระบบหลายเอเจนต์ ภายใต้ความหน่วงเวลา การสื่อสารที่จำกัด และการโจมตีแบบปฏิเสธการให้บริการ"
+      },
+      "keywords": {
+        "en": [
+          "event-triggered control",
+          "networked control systems",
+          "multi-agent systems",
+          "denial-of-service attacks",
+          "time delay"
+        ],
+        "th": [
+          "การควบคุมแบบขับเคลื่อนด้วยเหตุการณ์",
+          "ระบบควบคุมผ่านเครือข่าย",
+          "ระบบหลายเอเจนต์",
+          "การโจมตีแบบปฏิเสธการให้บริการ",
+          "ความหน่วงเวลา"
+        ]
+      }
+    }
+  ]
+}
