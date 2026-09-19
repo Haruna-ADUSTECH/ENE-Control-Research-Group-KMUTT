@@ -15,7 +15,7 @@
    * sampleContent: while true, every page shows a small "sample content"
    * notice. Set it to false once you have replaced the placeholder text,
    * team, contact details and the files in /data. */
-  const SETTINGS = { sampleContent: true };
+  const SETTINGS = { sampleContent: false };
 
   const ENE = (window.ENE = window.ENE || {});
   ENE.settings = SETTINGS;
